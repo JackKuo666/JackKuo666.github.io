@@ -95,7 +95,7 @@
  
 4. Li, W., et al., _**Menghao Guo**_, et al."Discovering CRISPR-Cas System with Self-processing Pre-crRNA Capability by Foundation Models." _**Nature Communications (2024)**_.
 
-5. _\[Preprints\]_ Wenhui LI†, Baicheng Huang†, _**Menghao Guo**_†, et al. "Unveiling the Evolution of Antimicrobial Peptides in Gut Microbes via Foundation Model-Powered Framework". _preprint and under review at **Cell Reports**_.
+5. _\[Preprints\]_ Wenhui LI†, Baicheng Huang†, _**Menghao Guo**_†, et al. "Unveiling the Evolution of Antimicrobial Peptides in Gut Microbes via Foundation Model-Powered Framework". _preprint and Accepted by **Cell Reports**_.
  
 6. _\[Preprints\]_ Jinling Jiang†, Jie Hu†, Siwei Xie†, **Menghao Guo†**, et al. Enzyme Co-Scientist: Harnessing Large Language Models for Enzyme Kinetic Data Extraction from Literature. _preprint and under review at **Nature Computational Science**_.
  
