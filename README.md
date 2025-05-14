@@ -63,7 +63,7 @@
  
 * **Enzyme Kinetics Extraction (Enzyme Co-Scientist):** As co-first author, developed an LLM-based framework that extracted over 91,000 enzyme kinetics entries from ~3,500 papers with high accuracy (A manuscript has been preprinted and is under review).
  
-* **AMP-SEMiner:** As co-first author, created a framework using Protein Language Models to discover 1.6 million antimicrobial peptide candidates by integrating genomics, molecular dynamics, and LLM technology (A manuscript has been preprinted and was Accepted).
+* **AMP-SEMiner:** As co-first author, created a framework using Protein Language Models to discover 1.6 million antimicrobial peptide candidates by integrating genomics, molecular dynamics, and LLM technology (A preprint of the manuscript was posted, and it has now been accepted for publication).
  
 * **SLMP Platform:** Proposed and implemented an LLM-powered platform for automated literature summarization, keyword extraction, and article analysis (A scientific paper published).
  
