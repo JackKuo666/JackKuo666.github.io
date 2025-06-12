@@ -63,7 +63,7 @@
  
 * **Enzyme Kinetics Extraction (Enzyme Co-Scientist):** As co-first author, developed an LLM-based framework that extracted over 91,000 enzyme kinetics entries from ~3,500 papers with high accuracy (A manuscript has been preprinted and is under review).
  
-* **AMP-SEMiner:** As co-first author, created a framework using Protein Language Models to discover 1.6 million antimicrobial peptide candidates by integrating genomics, molecular dynamics, and LLM technology (A preprint of the manuscript was posted, and it has now been accepted for publication).
+* **AMP-SEMiner:** As co-first author, created a framework using Protein Language Models to discover 1.6 million antimicrobial peptide candidates by integrating genomics, molecular dynamics, and LLM technology (A scientific paper published).
  
 * **SLMP Platform:** Proposed and implemented an LLM-powered platform for automated literature summarization, keyword extraction, and article analysis (A scientific paper published).
  
@@ -95,7 +95,7 @@
  
 4. Li, W., et al., _**Menghao Guo**_, et al."Discovering CRISPR-Cas System with Self-processing Pre-crRNA Capability by Foundation Models." _**Nature Communications (2024)**_.
 
-5. _\[Preprints\]_ Wenhui LI†, Baicheng Huang†, _**Menghao Guo**_†, et al. "Unveiling the Evolution of Antimicrobial Peptides in Gut Microbes via Foundation Model-Powered Framework". _preprint and Accepted by **Cell Reports**_.
+5. Wenhui LI†, Baicheng Huang†, _**Menghao Guo**_†, et al. "Unveiling the Evolution of Antimicrobial Peptides in Gut Microbes via Foundation Model-Powered Framework". _**Cell Reports(2025)**_.
  
 6. _\[Preprints\]_ Jinling Jiang†, Jie Hu†, Siwei Xie†, **Menghao Guo†**, et al. Enzyme Co-Scientist: Harnessing Large Language Models for Enzyme Kinetic Data Extraction from Literature. _preprint and under review at **Nature Computational Science**_.
  
