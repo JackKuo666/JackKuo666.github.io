@@ -14,7 +14,7 @@
 
 - **Open-source contributor:** Actively contributed to open-source projects such as [LLM-BioDataExtractor](https://github.com/JackKuo666/LLM-BioDataExtractor), [AMP-SEMiner-Portal](https://github.com/JackKuo666/AMP-SEMiner-Portal), [PubMed-MCP-Server](https://github.com/JackKuo666/PubMed-MCP-Server), [Geneformer](https://huggingface.co/ctheodoris/Geneformer/discussions?status=closed&type=pull_request&sort=recently-created), [AllenNLP](https://github.com/allenai/allennlp/graphs/contributors) and [MindSpore](https://gitee.com/guomenghao319) by enhancing model performance and functionality.
  
-- **Biocomputation projects:** Involved in `AMP-SEMiner`, `CRISPR-Cas Systems Discovery`, Enzyme Kinetics Data Extraction (`Enzyme Co-Scientist`), and `LLM Agent-based Chemical Literature Data Mining`.
+- **Biocomputation projects:** Involved in `AMP-SEMiner`, `CRISPR-Cas Systems Discovery`, Enzyme Kinetics Data Extraction (`Enzyme Co-Scientist`), and LLM Agent-based Chemical Literature Data Mining (`ChemMiner`).
  
 - **Diverse industry background:** Extensive experience across Huawei (2012 Lab), Ant Group, Ping An Technology, China Tobacco Zhejiang Industrial, and the Research Center for Life Sciences Computing of Zhejiang Lab.
  
