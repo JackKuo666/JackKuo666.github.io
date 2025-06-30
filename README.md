@@ -12,7 +12,7 @@
  
 - **Expert in NLP, deep learning, and LLM applications:** Led projects in text mining, knowledge graph construction, and multi-modal data integration, with a focus on leveraging LLM agents and AI for `​life sciences`, including `biocomputing, bioinformatics, and computational biology`. Specialized in: `​Protein and genome foundation models`, `​Multi-agent systems for life sciences data mining`, `​Bioinformatics analysis and database construction`, `​Drug repurposing`, and `​Genomics-based personalized medicine`.
 
-- **Open-source contributor:** Actively contributed to open-source projects such as [AllenNLP](https://github.com/allenai/allennlp/graphs/contributors) and [MindSpore](https://gitee.com/guomenghao319) by enhancing model performance and functionality.
+- **Open-source contributor:** Actively contributed to open-source projects such as [LLM-BioDataExtractor](https://github.com/JackKuo666/LLM-BioDataExtractor), [AMP-SEMiner-Portal](https://github.com/JackKuo666/AMP-SEMiner-Portal), [PubMed-MCP-Server](https://github.com/JackKuo666/PubMed-MCP-Server), [Geneformer](https://huggingface.co/ctheodoris/Geneformer/discussions?status=closed&type=pull_request&sort=recently-created), [AllenNLP](https://github.com/allenai/allennlp/graphs/contributors) and [MindSpore](https://gitee.com/guomenghao319) by enhancing model performance and functionality.
  
 - **Biocomputation projects:** Involved in `AMP-SEMiner`, `CRISPR-Cas Systems Discovery`, Enzyme Kinetics Data Extraction (`Enzyme Co-Scientist`), and `LLM Agent-based Chemical Literature Data Mining`.
  
@@ -99,7 +99,7 @@
  
 6. _\[Preprints\]_ Jinling Jiang†, Jie Hu†, Siwei Xie†, **Menghao Guo†**, et al. Enzyme Co-Scientist: Harnessing Large Language Models for Enzyme Kinetic Data Extraction from Literature. _preprint and under review at **Nature Computational Science**_.
  
-7. _\[Preprints\]_ Chen, K., et al., _**Menghao Guo**_, et al. "An Autonomous Large Language Model Agent for Chemical Literature Data Mining." _(arXiv)_
+7. _\[Preprints\]_ Chen, K., et al., _**Menghao Guo**_, et al. "ChemMiner: A Large Language Model Agent System for Chemical Literature Data Mining." _preprint and under review at **ICCV 2025**_
  
 8. _\[Master Thesis\]_ _**Menghao Guo**_. Research on Visual Odometry Algorithm Based on Unsupervised Deep Learning \[D\]. 2020.
  
