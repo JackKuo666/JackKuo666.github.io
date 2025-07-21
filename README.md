@@ -67,7 +67,7 @@
  
 * **SLMP Platform:** Proposed and implemented an LLM-powered platform for automated literature summarization, keyword extraction, and article analysis (A scientific paper published).
  
-* **Chemical Literature Mining:** Contributed to an LLM Agent system for extracting reaction predictions and molecular properties from chemical literature (A manuscript has been preprinted).
+* **Chemical Literature Mining:** Contributed to an LLM Agent system for extracting reaction predictions and molecular properties from chemical literature (A manuscript has been preprinted and has been accepted by ICCV 2025 workshop).
  
 * **CRISPR-Cas Discovery:** Participated in leveraging foundation models to identify novel Casλ homologs for advancing gene editing research (A scientific paper published).
  
@@ -99,7 +99,7 @@
  
 6. _\[Preprints\]_ Jinling Jiang†, Jie Hu†, Siwei Xie†, **Menghao Guo†**, et al. Enzyme Co-Scientist: Harnessing Large Language Models for Enzyme Kinetic Data Extraction from Literature. _preprint and under review at **Nature Computational Science**_.
  
-7. _\[Preprints\]_ Chen, K., et al., _**Menghao Guo**_, et al. "ChemMiner: A Large Language Model Agent System for Chemical Literature Data Mining." _preprint and under review at **ICCV 2025**_
+7. _\[Preprints\]_ Chen, K., et al., _**Menghao Guo**_, et al. "ChemMiner: A Large Language Model Agent System for Chemical Literature Data Mining." _preprint and has been accepted by **ICCV 2025 workshop**_.
  
 8. _\[Master Thesis\]_ _**Menghao Guo**_. Research on Visual Odometry Algorithm Based on Unsupervised Deep Learning \[D\]. 2020.
  
