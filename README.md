@@ -14,7 +14,7 @@
 
 - **Open-source contributor:** Actively contributed to open-source projects such as [LLM-BioDataExtractor](https://github.com/JackKuo666/LLM-BioDataExtractor), [AMP-SEMiner-Portal](https://github.com/JackKuo666/AMP-SEMiner-Portal), [PubMed-MCP-Server](https://github.com/JackKuo666/PubMed-MCP-Server), [Geneformer](https://huggingface.co/ctheodoris/Geneformer/discussions?status=closed&type=pull_request&sort=recently-created), [AllenNLP](https://github.com/allenai/allennlp/graphs/contributors) and [MindSpore](https://gitee.com/guomenghao319) by enhancing model performance and functionality.
  
-- **Biocomputation projects:** Involved in `AMP-SEMiner`, CRISPR-Cas Systems Discovery (`CHOOSER`), Enzyme Kinetics Data Extraction (`Enzyme Co-Scientist`), [Orthoformer](https://github.com/JackKuo666/Orthoformer), and LLM Agent-based Chemical Literature Data Mining (`ChemMiner`).
+- **Biocomputation projects:** Involved in [`AMP-SEMiner`](https://github.com/JackKuo666/AMP-SEMiner-Portal), CRISPR-Cas Systems Discovery ([`CHOOSER`](https://github.com/zjlab-BioGene/CHOOSER)), Enzyme Kinetics Data Extraction ([`Enzyme Co-Scientist`](https://github.com/JackKuo666/LLM-BioDataExtractor)), [Orthoformer](https://github.com/JackKuo666/Orthoformer), [`ADMP-LS`](https://github.com/JackKuo666/ADMP-LS) and LLM Agent-based Chemical Literature Data Mining ([`ChemMiner`](https://github.com/Nikki0526/ChemMiner)).
  
 - **Diverse industry background:** Extensive experience across Huawei (2012 Lab), Ant Group, Ping An Technology, China Tobacco Zhejiang Industrial, and the Research Center for Life Sciences Computing of Zhejiang Lab.
  
@@ -99,13 +99,15 @@
 
 5. Wenhui LI†, Baicheng Huang†, _**Menghao Guo**_†, et al. "Unveiling the Evolution of Antimicrobial Peptides in Gut Microbes via Foundation Model-Powered Framework". _**Cell Reports(2025)**_.
  
-6. _\[Preprints\]_ Jinling Jiang†, Jie Hu†, Siwei Xie†, **Menghao Guo†**, et al. Enzyme Co-Scientist: Harnessing Large Language Models for Enzyme Kinetic Data Extraction from Literature. _preprint and under review at **Nature Machine Intelligence**_.
+6. _\[Preprints\]_ Jinling Jiang†, Jie Hu†, Siwei Xie†, **Menghao Guo†**, et al. Enzyme Co-Scientist: Harnessing Large Language Models for Enzyme Kinetic Data Extraction from Literature. _preprint and under review at _**Nature Machine Intelligence**_.
  
-7. _\[Preprints\]_ Chen, K., et al., _**Menghao Guo**_, et al. "ChemMiner: A Large Language Model Agent System for Chemical Literature Data Mining." _preprint and has been accepted by **ICCV 2025 workshop**_.
+7. _\[Preprints\]_ Chen, K., et al., _**Menghao Guo**_, et al. "ChemMiner: A Large Language Model Agent System for Chemical Literature Data Mining." _preprint and has been accepted by _**ICCV 2025 workshop**_.
  
-8. _\[Preprints\]_ Wenhui LI†, Baicheng Huang†, _**Menghao Guo**_†, et al. "A function-centric foundation model establishes multi-scale organization of microbial functions." _under review at **Nature Communications**_.
+8. _\[Preprints\]_ Wenhui LI†, Baicheng Huang†, _**Menghao Guo**_†, et al. "A function-centric foundation model establishes multi-scale organization of microbial functions." _under review at _**Nature Communications**_.
 
-9. _\[Master Thesis\]_ _**Menghao Guo**_. Research on Visual Odometry Algorithm Based on Unsupervised Deep Learning \[D\]. 2020.
+9. _\[Preprints\]_ _**Menghao Guo**_†, et al. "ADMP-LS: Agent-based Dialogue and Mining Platform for Evidence-Grounded QA, Extraction, and Literature Review in Life Science". Has been accepted by _**ICDM 2025 workshop**_.
+
+10. _\[Master Thesis\]_ _**Menghao Guo**_. Research on Visual Odometry Algorithm Based on Unsupervised Deep Learning \[D\]. 2020.
  
 
 _(†Co-first author)_
