@@ -99,7 +99,7 @@
 
 5. Wenhui LI†, Baicheng Huang†, _**Menghao Guo**_†, et al. "Unveiling the Evolution of Antimicrobial Peptides in Gut Microbes via Foundation Model-Powered Framework". _**Cell Reports(2025)**_.
  
-6. _\[Preprints\]_ Jinling Jiang†, Jie Hu†, Siwei Xie†, **Menghao Guo†**, et al. Enzyme Co-Scientist: Harnessing Large Language Models for Enzyme Kinetic Data Extraction from Literature. _preprint and under review at **Nature Computational Science**_.
+6. _\[Preprints\]_ Jinling Jiang†, Jie Hu†, Siwei Xie†, **Menghao Guo†**, et al. Enzyme Co-Scientist: Harnessing Large Language Models for Enzyme Kinetic Data Extraction from Literature. _preprint and under review at **Nature Machine Intelligence**_.
  
 7. _\[Preprints\]_ Chen, K., et al., _**Menghao Guo**_, et al. "ChemMiner: A Large Language Model Agent System for Chemical Literature Data Mining." _preprint and has been accepted by **ICCV 2025 workshop**_.
  
